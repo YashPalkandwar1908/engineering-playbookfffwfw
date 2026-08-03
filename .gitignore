@@ -1,0 +1,41 @@
+﻿# ============================================
+# Engineering Playbook
+# Repository-level ignored files
+# ============================================
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Local workspace / tooling
+.cache/
+.tmp/
+temp/
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
