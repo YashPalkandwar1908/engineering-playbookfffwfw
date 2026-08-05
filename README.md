@@ -1,4 +1,4 @@
-﻿# Engineering Playbook
+# Engineering Playbook
 
 A centralized repository for engineering standards, development workflows,
 governance practices, and reusable project templates.
@@ -22,16 +22,32 @@ templates are added only when they are ready to be defined and reviewed.
 
 ---
 
-## Current Repository
+## Explore the Playbook
 
-The repository currently contains only its initial foundation:
+The repository is organized into focused areas as the playbook grows.
 
-- `README.md` — repository overview and documentation.
-- `LICENSE` — licensing terms for the repository.
+### 🧰 Git Workshop
+
+Versioning, Git practices, branching, releases, and related repository
+conventions.
+
+→ [Explore Git](git/)
+
+The Git Workshop currently includes the project's versioning policy.
+
+---
+
+## Repository Foundation
+
+The root of the repository provides the shared foundation:
+
+- `README.md` — repository entry point and navigation.
+- `LICENSE` — repository licensing terms.
 - `.gitignore` — repository-level Git ignore rules.
 - `.editorconfig` — baseline editor and file-formatting configuration.
 
-The repository will grow gradually as the Engineering Playbook is developed.
+New playbook areas are introduced incrementally as their policies and
+documentation are established.
 
 ---
 
@@ -95,7 +111,10 @@ This README will therefore evolve alongside the repository.
 
 **Early Development**
 
-The initial repository foundation is currently being established.
+The initial repository foundation is established.
+
+The playbook is now being expanded incrementally with its first documented
+engineering policies.
 
 Current foundation:
 
@@ -104,7 +123,9 @@ Current foundation:
 - Git ignore configuration
 - Editor configuration
 
-No engineering standards or workflows have been established yet.
+Current playbook areas:
+
+- 🧰 [Git Workshop](git/)
 
 ---
 
