@@ -19,6 +19,9 @@ I want to...
 🏷️ **Decide how a project should be versioned**
 → [Versioning Policy](VERSIONING_POLICY.md)
 
+🚀 **Prepare and publish a release**
+→ [Release Process](RELEASE_PROCESS.md)
+
 ---
 
 ## 📂 Documents
@@ -29,6 +32,14 @@ I want to...
 
 Defines how project versions are numbered, how changes are classified, and
 how compatibility affects version decisions.
+
+### 🚀 Release Process
+
+[`RELEASE_PROCESS.md`](RELEASE_PROCESS.md)
+
+Defines how an approved version becomes a published release, including release
+gates, release commits, tags, artifacts, publication, verification, rollback,
+and corrective releases.
 
 ---
 
@@ -55,6 +66,10 @@ This area is not responsible for:
 ## 🗺️ Continue Exploring
 
 ⬅️ [Engineering Playbook](../README.md)
+
+➡️ Related:
+
+- [📚 Engineering Standards](../standards/)
 
 More destinations will appear here as the playbook grows.
 

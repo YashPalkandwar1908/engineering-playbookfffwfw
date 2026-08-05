@@ -33,7 +33,11 @@ conventions.
 
 → [Explore Git](git/)
 
-The Git Workshop currently includes the project's versioning policy.
+### 📚 Engineering Standards
+
+Shared technical standards for building consistent and maintainable software.
+
+→ [Explore Engineering Standards](standards/)
 
 ---
 
@@ -126,6 +130,7 @@ Current foundation:
 Current playbook areas:
 
 - 🧰 [Git Workshop](git/)
+- 📚 [Engineering Standards](standards/)
 
 ---
 
