@@ -1,0 +1,64 @@
+# Documentation Standards
+
+Keep documentation clear, useful, and easy to find.
+
+## Where Documentation Goes
+
+```text id="1z6q8r"
+project/
+│
+├── README.md
+│
+└── docs/
+    ├── setup.md
+    ├── architecture.md
+    ├── development.md
+    └── ...
+```
+
+### `README.md`
+
+The README is the **starting point**.
+
+Keep the important information here:
+
+* What the project does
+* Main features
+* Requirements
+* Installation
+* Basic usage
+* Important links
+
+Don't turn the README into a full manual.
+
+### `docs/`
+
+Use `docs/` for information that is too detailed for the README.
+
+Examples:
+
+```text id="w4xjko"
+docs/
+├── setup.md
+├── architecture.md
+├── api.md
+├── development.md
+└── troubleshooting.md
+```
+
+Only create documents when they are actually useful.
+
+## Documentation Rules
+
+* Keep documentation close to the code or feature it describes.
+* Update documentation when important behavior changes.
+* Prefer short, focused documents over large documents.
+* Use clear names for files and sections.
+* Remove outdated documentation.
+* Don't document obvious code unnecessarily.
+
+## Core Rule
+
+> **Documentation should help someone understand or use the project, not create more work just for the sake of documentation.**
+
+Start small and expand the documentation as the project grows.
